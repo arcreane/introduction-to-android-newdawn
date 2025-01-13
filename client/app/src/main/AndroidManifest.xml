@@ -1,0 +1,10 @@
+<uses-permission android:name="android.permission.CAMERA" />
+<uses-permission android:name="android.permission.INTERNET" />
+<application>
+<activity android:name=".activities.LoginActivity" />
+<activity android:name=".activities.SignupActivity" />
+<activity android:name=".activities.MainActivity" />
+<activity android:name=".activities.AddWorkoutActivity" />
+<activity android:name=".activities.PhotoProgressActivity" />
+<activity android:name=".activities.ApiIntegrationActivity" />
+</application>

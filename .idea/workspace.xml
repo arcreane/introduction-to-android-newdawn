@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9327d39-fd48-410b-93a1-c5663b9b13a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/client/app/src/main/java/com/rigidathlete/activities/AddWorkoutActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/src/main/java/com/rigidathlete/activities/ApiIntegrationActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/src/main/java/com/rigidathlete/activities/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/src/main/java/com/rigidathlete/activities/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/src/main/java/com/rigidathlete/activities/PhotoProgressActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/src/main/java/com/rigidathlete/activities/SignupActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/src/main/java/com/rigidathlete/adapters/WorkoutAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/src/main/java/com/rigidathlete/database/AppDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/src/main/java/com/rigidathlete/database/WorkoutDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/src/main/java/com/rigidathlete/models/Workout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/src/main/java/com/rigidathlete/network/ApiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/src/main/res/layout/activity_add_workout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/src/main/res/layout/activity_api_integration.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/src/main/res/layout/activity_photo_progress.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/app/src/main/res/layout/activity_signup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/MealPlan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/Progress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/Workout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/routes/account.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/routes/home.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/routes/mealPlan.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/routes/progress.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/routes/workout.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/services/account.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/services/home.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/services/mealPlan.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/services/progress.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/services/workout.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/client/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/client/app/src/main/AndroidManifest.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2rJ81xDkH3FWatA4QsilgUHPgL3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.index.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feat/client",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/abhipshabhatta/Documents/introduction-to-android-newdawn/client/app/src/main/java/com/rigidathlete/database",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="/private/var/folders/k7/1_3d1d957qbg3yr95kh8hqbh0000gn/T/qodana_output/qodana.sarif.json" reportGuid="4fbb5cb5-f3c8-4236-a46a-130feaf9b84a" reportId="introduction-to-android-newdawn/qodana/2025-01-07" />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/app/src/main/java/com/rigidathlete/database" />
+      <recent name="$PROJECT_DIR$/client/app/src/main/java/com/rigidathlete/network" />
+      <recent name="$PROJECT_DIR$/client/app/src/main/java/com/rigidathlete/models" />
+      <recent name="$PROJECT_DIR$/client/app/src/main/java/com/rigidathlete/adapters" />
+      <recent name="$PROJECT_DIR$/client/app/src/main/java/com/rigidathlete/activities" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server/index.js" working-dir="$PROJECT_DIR$/server">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9327d39-fd48-410b-93a1-c5663b9b13a0" name="Changes" comment="" />
+      <created>1736265607647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736265607647</updated>
+      <workItem from="1736265608803" duration="2513000" />
+      <workItem from="1736757264918" duration="9404000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
