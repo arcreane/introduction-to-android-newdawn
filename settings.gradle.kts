@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "WellSphere"
+rootProject.name = "FitnessTracker"
 include(":app")
- 
